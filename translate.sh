@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #************************************************#
-#                 t-function                     #
+#                 translate.sh                   #
 #           written by Nikita Korotkih           #
 #                Jan 27, 2011                    #
 #                                                #
