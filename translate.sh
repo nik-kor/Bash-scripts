@@ -21,8 +21,10 @@
 #       some period and give them to you to translate them.
 #       Than check your answer and maybe save the results to
 #       use them in the future trainings
-
-
+#  3. Add configuration file:
+#     - default language pair 
+#     - any default values
+#     - log file, results format, etc
 
 LOG_FILE=~/t.log
 E_WRONG_ARGS=85
