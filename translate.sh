@@ -8,9 +8,21 @@
 #       Translate words by Google Translator     #
 #************************************************#
 
-# TODO: 
-#  - check if google return an error
-#  - add special input parameters
+# TODO:
+#  1. Little changes
+#    - check if google return an error
+#    - add special input parameters
+#  2. Major additions
+#    - add means to get statistic about translated words,
+#      e.g, for today or for las hour - in general, 
+#      for any given period of time
+#    - add trainer to remember words:
+#       it'll take words that you have requested for 
+#       some period and give them to you to translate them.
+#       Than check your answer and maybe save the results to
+#       use them in the future trainings
+
+
 
 LOG_FILE=~/t.log
 E_WRONG_ARGS=85
