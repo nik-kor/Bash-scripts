@@ -25,6 +25,7 @@
 #     - default language pair 
 #     - any default values
 #     - log file, results format, etc
+#
 
 LOG_FILE=~/t.log
 E_WRONG_ARGS=85
